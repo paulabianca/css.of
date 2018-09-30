@@ -1,0 +1,30 @@
+{
+  "name": "css.of",
+  "version": "1.0.0",
+  "description": "A lightweight, dependency free node.js package for creating css strings out of javascript objects.",
+  "main": "css.js",
+  "keywords": [
+    "css of",
+    "css",
+    "string",
+    "of",
+    "out of",
+    "js",
+    "javascript",
+    "object",
+    "light",
+    "lightweight",
+    "nested",
+    "nesting",
+    "at rule",
+    "media",
+    "media query",
+    "basic",
+    "simple",
+    "dependency free"
+  ],
+  "homepage": "https://github.com/paulabianca/css.of",
+  "repository": "github:paulabianca/css.of",
+  "author": "Paula <paula.la@live.com>",
+  "license": "MIT"
+}
